@@ -15,7 +15,7 @@
 life_cycle: "pre-alpha"
 
 # Overall title for the Workshop.
-title: "Workshop Title"
+title: "Data Pre-Processing using Python"
 
 
 # Magic to make URLs resolve both locally and on GitHub.
