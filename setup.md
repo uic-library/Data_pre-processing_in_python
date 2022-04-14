@@ -19,11 +19,8 @@ folder \_includes/install_instructions by using code seen below. Add or remove i
 
 Please download the following files to particpate in the workshop:
 
-[ADD DOWNLOAD LINK] data: 
-[ADD DOWNLOAD LINK] script: 
-
-ADD links to setup files in `files` folder OR if there are many files, zip setup files, add to `files` folder
-and add link to zip file here
+[data file](../files/auto_mpg.csv): 
+[script](../files/Case_Study_2.ipynb: 
 
 ## About the Data Used in this Workshop:
 
