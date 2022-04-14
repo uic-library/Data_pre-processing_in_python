@@ -19,8 +19,8 @@ folder \_includes/install_instructions by using code seen below. Add or remove i
 
 Please download the following files to particpate in the workshop:
 
-[data file](../files/auto_mpg.csv): 
-[script](../files/Case_Study_2.ipynb: 
+[data file](../files/auto_mpg.csv)   
+[script file](../files/Case_Study_2.ipynb) 
 
 ## About the Data Used in this Workshop:
 
