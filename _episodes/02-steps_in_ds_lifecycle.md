@@ -11,7 +11,7 @@ objectives:
 
 ## What is Data Science?
 
-Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value.
+Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data scientists apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificially intelligent  systems to perform tasks. These systems generate insights which analysts and business users can translate into tangible business value.
 
 ## What are the steps in a Data Science Project?
 
