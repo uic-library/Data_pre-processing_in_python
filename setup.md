@@ -16,7 +16,7 @@ permalink: /setup/
 Please download the following files to particpate in the workshop:
 
 [data file](../files/auto_mpg.csv)   
-[script file](../files/Case_Study_2.ipynb) 
+[script file](../files/dpp_wrkshp.ipynb) 
 
 ## About the Data Used in this Workshop:
 
