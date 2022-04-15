@@ -24,7 +24,7 @@ The following are the steps in Data Pre-Processing:
 ## Handling Missing Values
 Handling missing values is an important step, as it can affect your model. It is important to identify the missing values and know with which value they can be replaced.Depending on the missing data a decision is made regarding whether or not to keep entries with missing data.
 
-A better strategy is to impute the missing values. Infer means to infer them from the known part of the data. The SimpleImputer class provides basic strategies for imputing missing values. Missing values can be imputed with a provided constant value, or using the statistics (mean, median, or most frequent) of each column in which the missing values are located.
+A better strategy is to impute the missing values. Imputing means to infer them from the known part of the data. The SimpleImputer class provides basic strategies for imputing missing values. Missing values can be imputed with a provided constant value, or using the statistics (mean, median, or most frequent) of each column in which the missing values are located.
 
 ~~~
 import pandas as pd
