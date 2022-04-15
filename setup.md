@@ -6,10 +6,6 @@ permalink: /setup/
 
 ## Software setup
 
-FIXME add/edit  install instructions (automated, see comment)
-
-{% comment %} to add automated software install instructions, add instructions available in the install instructions 
-folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
 
 {% include install_instructions/virtual_lab.html %}
 {% include install_instructions/editor.html %}
@@ -24,9 +20,8 @@ Please download the following files to particpate in the workshop:
 
 ## About the Data Used in this Workshop:
 
-(if the workshop uses data)
+The data set being used in this workshop is "auto-mpg.csv". It contains information regarding varios parts. It was collected by Carnegie Mello University. We will perform data pre-processing on this workshop. Additionally, as homework, you will be required to perform visualization on this dataset.
 
-ADD intro/description of data. Including file format and any disciplinary background needed to understand
-why the data is gathered and how it is used.
+
 
 
