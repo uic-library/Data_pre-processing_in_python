@@ -26,12 +26,15 @@ __Step 2 : Scrubbing Data__
 Once we obtain the data from various sources, we need to clean it. The reason for this is that performing analysis or modelling unclean data gives results that are not useful and are not accurate. This step includes handling missing values, data encoding etc. This step is also know as "Data Pre-Processing"
 
 __Step 3: Explore Data__
+
 Once the data has been cleaned, we examine the data. in this step, we try to make sense of the data. _what does this data represent?. What questions can be answered using this data?. What needs to be predicted using this data?_. These are some of the questions answered in this step. We also try to identify significant patterns and trends in our data using data visualization.
 
 __Step 4 : Model Data__
+
 In this stage, we use the cleaned data to train machine learning models. These trained models then can be used to predict the outcome when a new entry of data is presented to it. For example: Train a spam detector using the mails in your inbox. When a new mail arrives, the trained model identifies if this mail is spam or not.
 
 __Step 5 : Interpreting Data__
+
 In this step, We deliver the results in to answer the business questions we asked when we first started the project, together with the actionable insights that we found through the data science process.
 
 
