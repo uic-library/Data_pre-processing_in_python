@@ -66,6 +66,7 @@ plt.show()
 
 
 ~~~
+
 import matplotlib.pyplot as plt
 
 # x-coordinates of left sides of bars
@@ -103,6 +104,7 @@ plt.show()
 
 
 ~~~
+
 import matplotlib.pyplot as plt
 
 # frequencies
@@ -140,6 +142,8 @@ plt.show()
 
 
 ~~~
+
+
 import matplotlib.pyplot as plt
 
 # x-axis values
@@ -163,6 +167,7 @@ plt.legend()
 # function to show the plot
 plt.show()
 
+
 ~~~
 {: .language-python}
 
@@ -178,6 +183,8 @@ plt.show()
 
 
 ~~~
+
+
 import matplotlib.pyplot as plt
 
 # defining labels
