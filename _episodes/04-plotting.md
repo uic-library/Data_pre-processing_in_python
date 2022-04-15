@@ -56,11 +56,15 @@ plt.title('x^2')
 plt.show()
 
 ~~~
+{: .language-python}
+
 
 ## Bar Graph
 - The plt.bar() function is used to plot a bar chart.
 - x-coordinates of the left side of bars are passed along with the heights of bars.
 - Name to x-axis coordinates by defining tick_labels
+
+
 ~~~
 import matplotlib.pyplot as plt
 
@@ -97,6 +101,7 @@ plt.show()
 - The range is set by defining a tuple containing min and max values. 
 - The next step is to “bin” the range of values. Binning means dividing the entire range of values into a series of intervals and then count how many values fall into each interval.
 
+
 ~~~
 import matplotlib.pyplot as plt
 
@@ -125,11 +130,14 @@ plt.show()
 ~~~
 {: .language-python}
 
+
+
 ## Scatter Plot
 
 - plt.scatter() function is used to plot a scatter plot.
 - Define x and corresponding y-axis values.
 - Marker argument is used to set the character to use as a marker. Its size can be defined using the s parameter.
+
 
 ~~~
 import matplotlib.pyplot as plt
@@ -158,12 +166,16 @@ plt.show()
 ~~~
 {: .language-python}
 
+
+
 ## Pie Chart
 
 - Plot a pie chart by using plt.pie() method.
 - Define the labels using a list called activities.
 - Then, a portion of each label can be defined using another list called slices.
 - Color for each label can also be defined using a list.
+
+
 
 ~~~
 import matplotlib.pyplot as plt
@@ -187,6 +199,7 @@ plt.legend()
 
 # showing the plot
 plt.show()
+
 
 ~~~
 {: .language-python}
