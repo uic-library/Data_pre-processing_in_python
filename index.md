@@ -7,27 +7,20 @@ boxId: kweltidiq4bv1m9ow12prsuo9x2espsd
 
 
 -------------------------------------------
-Add workshop description here. Make sure it is descriptive enough that people understand what they will learn in the workshop, but only one paragraph with no more than 3-5 sentences. (same as workshop description for event announcements)
+In this workshop, we will look into the steps for data pre-processing, visualization and the libraries in python that can be used to do this.
 
-Additionally, in a second paragraph, please mention the data set or materials that will be used in the workshop and briefly describe them. Also, briefly describe some of the things that will be done with the data/materials in the workshop, "i.e. load data into Jupyter Notebook and create basic data visualizations showing the relationship between [variable 1] and [variable 2].
+The data set being used in this workshop is "auto-mpg.csv". It contains information regarding varios parts. It was collected by Carnegie Mello University. We will perform data pre-processing on this workshop. Additionally, as homework, you will be required to perform visualization on this dataset.
 
-{% comment %} briefly list workshop goals below - should be the same as the objectives from each workshop section (also repeated in the workshop overview) {% endcomment %}
 
 ## Workshop goals
-- goal #1
-- goal #2
-- goal #3  
+- To understand the Steps in data pre-processing
+- To understand data- visualization
+ 
 
 <br>
 > ## Pre-requisites
 > __STOP:__ before starting this workshop, please attend the following Digital Scholarship Lab workshop(s) before completing this one:
-> * [Workshop Title Here](https://researchguides.uic.edu/hub/workshops)  
->   
-> __OR__ make sure you're comfortable with the following concepts (study suggestions in parentheses)  
-> 
-> * first pre-requisite ([resource 1]())
-> * second pre-requisite ([resource 2]())
-> 
+> * [Handling data in python](https://researchguides.uic.edu/hub/workshops)  
 {: .prereq}
 
 {% include syllabus.html %}
@@ -53,9 +46,4 @@ Comment out while testing
 
 Thank you for attending this workshop or reading through the workshop material! If you could take 3-5 min to [respond to our anonymous survey](https://uic.ca1.qualtrics.com/jfe/form/SV_5bYL8vP2EqGbAmW), we can continue to improve this workshop. We appreciate any and all feedback!
 
-
-## Next Up...
-Check out these workshops after you've completed this one:
-1. [Workshop Title]()
-2. [Workshop Title]()
 
