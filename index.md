@@ -25,18 +25,7 @@ The data set being used in this workshop is "auto-mpg.csv". It contains informat
 
 {% include syllabus.html %}
 
-{% comment %}
-Comment out while testing
-## Workshop Content 
 
-| Section    | Overview | Time Estimate |
-| ------- | ---------- |
-|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
-|Section 1|* goal(s) from section #1(objectives from section 1 page)| | 
-|Section 2|* goal(s) from section #2 (objectives from section 2 page) | | 
-|Section 3| .....| | 
-
-{% endcomment %}
 
 ## Workshop Recording
 
