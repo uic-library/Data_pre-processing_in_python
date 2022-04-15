@@ -56,13 +56,11 @@ plt.title('x^2')
 plt.show()
 
 ~~~
-{: .language-python}
 
 ## Bar Graph
 - The plt.bar() function is used to plot a bar chart.
 - x-coordinates of the left side of bars are passed along with the heights of bars.
 - Name to x-axis coordinates by defining tick_labels
-
 ~~~
 import matplotlib.pyplot as plt
 
